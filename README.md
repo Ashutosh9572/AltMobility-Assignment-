@@ -1,10 +1,12 @@
 #SQL Analysis for Alt Mobility - Order, Sales, and Payment Insights
 
-#Project Objective
+Project Objective:-
 
 -- The objective of this project is to analyze customer orders and payment transactions for Alt Mobility using SQL. This includes generating insights on sales trends, customer behavior, and payment statuses.
 
-#My Approach 
+
+My Approach :-
+
 
 1.) Initial Data Challenges :-
 
