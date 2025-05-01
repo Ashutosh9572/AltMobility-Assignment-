@@ -10,9 +10,9 @@ My Approach :-
 
 1.) Initial Data Challenges :-
 
--> The provided datasets were in .xlsx format which is not directly usable in most SQL environments.
+-> The provided datasets were in CSV format , formatting in this type of file was not really possible and i learned it the hard way.
 
--> I first converted these files into .csv format so they could be imported into PostgreSQL.
+-> I first converted these files into .xlsx format so they could be formatted then coverted them back to csv imported into PostgreSQL.
 
 -> During the import process, I encountered issues with column data types—especially the order_date, which had an incompatible format for SQL operations.
 
